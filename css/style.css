@@ -1,0 +1,21 @@
+#navcontainer ul {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+#navcontainer ul li {
+	display: inline;
+}
+
+#navcontainer ul li img {
+	width : 17%;
+}
+
+body{
+	background-color : lightgray;
+}
+
+.container{
+	background-color : white;
+}
