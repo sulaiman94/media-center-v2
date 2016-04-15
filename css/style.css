@@ -19,3 +19,13 @@ body{
 .container{
 	background-color : white;
 }
+
+.pic {
+	width : 250px;
+	height : 200px;
+}
+
+.style-req{
+	background-color : red;
+	
+}
